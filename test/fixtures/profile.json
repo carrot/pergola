@@ -1,0 +1,27 @@
+{
+  "code": "",
+  "data": {
+      "username": "JoshRowley",
+      "following": 0,
+      "followerCount": 15,
+      "includePromoted": 1,
+      "verified": 0,
+      "description": "developer@sidetour.@flatironschoolgrad.&hearts;coding,baseball,skiing,improv,camping,andtravelingtheworld.blog@http: //jrowdev.com",
+      "avatarUrl": "https: //vines.s3.amazonaws.com/v/avatars/5516E52A-8699-455F-9CD0-8DEA93FD457C-736-000000A30FAFA41B.jpg?versionId=DyLODkv2VTvqlkyQkHhhHuNI6luW9EkV",
+      "twitterId": 57117767,
+      "userId": 908940759363887104,
+      "twitterConnected": 1,
+      "likeCount": 0,
+      "facebookConnected": 1,
+      "postCount": 7,
+      "phoneNumber": null,
+      "location": "Brooklyn,NY",
+      "blocking": 0,
+      "followingCount": 25,
+      "explicitContent": 0,
+      "email": "josh.rowley@gmail.com",
+      "blocked": 0
+  },
+  "success": true,
+  "error": ""
+}

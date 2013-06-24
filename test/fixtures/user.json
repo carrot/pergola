@@ -1,0 +1,21 @@
+{
+  "code": "",
+  "data": {
+    "username": "Lee Ourand",
+    "followerCount": 34,
+    "verified": 0,
+    "description": "8 essential vitamins and minerals",
+    "avatarUrl": "https://vines.s3.amazonaws.com/v/avatars/308B53A5-99CE-42FA-9BD4-DA60533E489A-4725-000002C8444F3E10.jpg?versionId=VyfeLumV67TpFHDk054fN53Y5wtAb978",
+    "userId": 907189074719289344,
+    "likeCount": 0,
+    "following": 0,
+    "postCount": 5,
+    "location": "Brooklyn,NY",
+    "followingCount": 0,
+    "explicitContent": 0,
+    "blocking": 0,
+    "blocked": 0
+},
+  "success": true,
+  "error": ""
+}
