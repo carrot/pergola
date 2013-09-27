@@ -13,6 +13,8 @@ You'll need a Vine client.
     require 'Pergola'
     client = Pergola::Client.new(:username => "email", :password => "sekret")
     
+If you'd like you can include your username and password in `lib/pergola/configuration.rb` and this will reconfigure your client in the event that you client fails.
+    
 ### Retrieving info
 
     client.me                   #=> your profile
