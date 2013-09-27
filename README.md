@@ -26,7 +26,9 @@ If you'd like you can include your username and password in `lib/pergola/configu
     client.get_notifications    #=> get notifications
     client.with_tag("tag")      #=> get vines with a tag
     client.logout               #=> logout
-    
+
+Check out the [example sinatra app](https://github.com/carrot/pergola-sinatra) to see Pergola in practice.
+
 ## How to contribute
  
 * Fork the project.
